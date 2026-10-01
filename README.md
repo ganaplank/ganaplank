@@ -1,6 +1,6 @@
 <div align="center">
 
-# Victor Noronha
+# Victor Noronha Chantre
 
 ### Software Engineering • Full-Stack Development • Automation & AI
 
